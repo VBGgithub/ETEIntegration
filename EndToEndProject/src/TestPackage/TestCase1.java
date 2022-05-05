@@ -9,7 +9,7 @@ public class TestCase1 {
 		System.setProperty("webdriver.chrome.driver",
 				"I:\\IMP Backup\\05_Vrinda Office data\\Cogniwise\\Training\\Drivers\\chromedriver.exe");
 		ChromeDriver browser = new ChromeDriver();
-		browser.get("https://www.google.in");
+		browser.get("https://www.gmail.in");
 		browser.quit();
 	}
 }
